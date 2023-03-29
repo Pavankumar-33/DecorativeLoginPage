@@ -4,7 +4,7 @@ This project is a simple login page created using HTML, CSS, and JS. The purpose
 
 #How to Use
 
-Clone the repository: git clone https://github.com/{username}/login-page.git
+Clone the repository: git clone https://github.com/P650/DecorativeLoginPage
 Open the index.html file in your browser.
 Enter the username and password (test/test) and click on the login button.
 If the username and password are correct, the page will redirect to the home page.
